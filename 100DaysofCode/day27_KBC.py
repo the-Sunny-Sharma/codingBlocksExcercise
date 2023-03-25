@@ -23,7 +23,6 @@ KBCans = (ans1,ans2,ans3)
 #opt= 1,4,7
 #ans = 2,5,8
 
-
 var = len(KBCques)
 print(var)
 
